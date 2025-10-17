@@ -8,3 +8,5 @@ For administrators, the system provides functionalities such as adding new books
 For students, the system offers an intuitive interface to browse available books, borrow books, and return them when finished. It also tracks borrowing history and due dates, ensuring transparency and accountability. The role-based access control ensures that users can only access features relevant to their roles, enhancing security and operational integrity.
 
 Overall, the Library Books Management System aims to improve the efficiency and organization of library management, providing a user-friendly experience that encourages better resource utilization. By automating routine tasks and centralizing data management, the system supports library staff and students in achieving their goals more effectively, ultimately contributing to a more modern and accessible library environment.
+
+SAMPLE OUTPUT: https://drive.google.com/file/d/1Q8t4PUavjxiwc7aEEKeO_HC8jwyLDxC_/view?usp=drivesdk
